@@ -1,0 +1,5 @@
+pyTelegramBotAPI
+flask
+yt-dlp
+schedule
+deep-translator
